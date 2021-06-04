@@ -14,4 +14,4 @@ NativeDB Introduced: v1868
 
 ## Parameters
 * **vehicle**:
-* **wheelIndex**:
+* **wheelId**:
