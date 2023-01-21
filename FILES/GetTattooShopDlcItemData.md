@@ -49,7 +49,7 @@ struct outComponent
 
 ## Parameters
 * **characterType**: Character types 0 = Michael, 1 = Franklin, 2 = Trevor, 3 = MPMale, 4 = MPFemale.
-* **decorationIndex**: Tattoo index, value between 0 and GetNumDecorations(characterType).
+* **decorationIndex**: Tattoo index, value between 0 and GetNumTattooShopDlcItems(characterType).
 * **outComponent**: The referenced struct.
 
 ## Return value
