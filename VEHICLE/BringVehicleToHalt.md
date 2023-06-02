@@ -19,5 +19,5 @@ This native makes the vehicle stop immediately, as happens when we enter a MP ga
 * **vehicle**: 
 * **distance**: 
 * **duration**: 
-* **unknown**: 
+* **killEngine**: 
 
